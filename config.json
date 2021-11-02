@@ -1,0 +1,9 @@
+{
+    "_comment-help": "All the files in this json tag can be found before the tag and starting with _",
+    
+    "_refresh-help": "Enter refresh rate of the program in seconds",
+    "refresh-tag": "1",
+    
+    "_entry-help": "Enter the number of entries",
+    "entry-tag": "10"
+}
